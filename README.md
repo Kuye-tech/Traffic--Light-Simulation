@@ -38,6 +38,16 @@ Project Demonstration
 
 A short demonstration video of the project is included in this repository to show the traffic light simulation in action.
 
+
+
+https://github.com/user-attachments/assets/7660e168-36fe-4400-a366-627ffa192182
+
+
+
+
+
+
+
 ---
 
 Skills Demonstrated
@@ -45,6 +55,10 @@ Skills Demonstrated
 * Arduino Programming (C++)
 * Embedded Systems
 * Digital Electronics
+
+
+
+
 * Circuit Design
 * Problem Solving
 * Debugging
